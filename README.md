@@ -1,2 +1,2 @@
-# Car_price_pridiction
+# Car_price_predction
 It is develoved by using Python.
